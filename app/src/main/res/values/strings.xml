@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DiscountPolicy</string>
+    <string name="number_to_buy">Number to buy</string>
+    <string name="item_cost">Item cost</string>
+    <string name="minimum">Minimum</string>
+    <string name="percent">Percent</string>
+    <string name="to_buy_for_discount"># to buy for discount</string>
+    <string name="bulk_discount">Bulk discount</string>
+    <string name="buy_n_savings">Buy N Savings</string>
+    <string name="bulkDiscount">00.00</string>
+</resources>
